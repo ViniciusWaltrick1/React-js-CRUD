@@ -1,0 +1,20 @@
+{
+  "event": [
+    {
+      "id": 1,
+      "name": "Rock in Rio",
+      "place": "Rio de janeiro",
+      "date": 2022,
+      "price": 1,
+      "amount": 100
+    },
+    {
+      "id": 2,
+      "name": "Rock ",
+      "place": "Curitiba",
+      "date": "2000",
+      "price": "400",
+      "amount": "5000"
+    }
+  ]
+}
