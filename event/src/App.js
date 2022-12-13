@@ -4,8 +4,15 @@ import EventListing from "./EventListing";
 import EventCreate from "./EventCreate";
 import EventEdit from "./EventEdit";
 
-/* Iniciar json server: 
-                      json-server --watch db.json --port 8000 
+
+
+/* npm start:
+             cd event
+             npm start
+
+Iniciar json server: 
+                    cd event
+                    json-server --watch db.json --port 8000 
 */
 
 function App() {
